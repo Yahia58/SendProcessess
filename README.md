@@ -1,7 +1,7 @@
 # Daily Processes Report Script  
 
 This Bash script automates the generation of daily reports on running processes, highlights stopped or problematic processes, and sends the report to a specified email.  
-
+![Daily Processes Report][4.png]
 ---
 
 ## Features  
@@ -48,7 +48,7 @@ Set up `msmtp` for sending emails:
    logfile /tmp/msmtp.log  
    ```  
    Replace `your-email@gmail.com` and `your-email-password` with your Gmail credentials.  
-  ![Process Report Example](1.png)  
+  ![Process Report](1.png)  
 
 2. **Set File Permissions**:  
    ```bash  
