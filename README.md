@@ -87,8 +87,8 @@ To run the script daily, schedule it using cron:
 ```bash  
 crontab -e  
 ```  
-Add the following line to execute the script at 7 AM daily:  
+Add the following line to execute the script at 4:15 PM daily:  
 ```bash  
-0 7 * * * /usr/local/bin/daily_process_report.sh  
+15 16 * * * /usr/local/bin/daily_process_report.sh  
 ```  
 ![Automation](2.png)  
