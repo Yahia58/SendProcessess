@@ -1,7 +1,7 @@
 # Daily Processes Report Script  
 
 This Bash script automates the generation of daily reports on running processes, highlights stopped or problematic processes, and sends the report to a specified email.  
-![Daily Processes Report][4.png]
+![Daily Processes Report](4.png)
 ---
 
 ## Features  
